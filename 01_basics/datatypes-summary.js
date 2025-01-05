@@ -36,4 +36,4 @@ console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
-// Learn about heap and stack too
+// Learn about Stack(Primitive) and Heap(Non Primitive)
