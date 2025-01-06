@@ -1,6 +1,6 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
-var accountPassword = "12345"
+const accountId = 144553 //Not changealbe values
+let accountEmail = "hitesh@google.com" //Changeable Value
+var accountPassword = "12345" //Changeable Value but var is not uswed anymoreS
 accountCity = "Jaipur"
 let accountState;
 
